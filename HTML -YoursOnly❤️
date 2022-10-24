@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Norman's Letter</title>
+    <script type="text/javascript">
+        alert("Insert alert...")
+        alert("Insert alert...")
+        alert("Insert alert...")
+        alert("Insert alert...")
+        alert("Insert alert...")
+        alert("Insert alert...")
+        </script>
+        <style>
+            body {
+             background: url(gif or pictures link address);
+             background-repeat: no-repeat;
+             background-position: auto;
+             background-attachment: fixed;
+             background-size:cover; 
+             }
+        </style>
+        <style>
+        h1{text-align: center;}
+        h2{text-align: center;}
+        </style>
+        <h1 style="color:cyan; font-family: Letter;-webkit-text-stroke: 1px black;">Insert text...</p>
+            <img src="https://c.tenor.com/3RkBSAwE4xgAAAAj/quby-pentol.gif;align:center"/>
+            <h2 style="color:black;-webkit-text-stroke:1px white;">Insert text...<p>
+            
+            <img src="https://c.tenor.com/ux7RPst0v1MAAAAj/quby-pentol.gif"/>
+            <h2 style="color:black;-webkit-text-stroke:1px white;"> Insert text...</p>
+            
+            <img src="https://c.tenor.com/Fm3_oNnjUjYAAAAj/line.gif"/>
+            <h2 style="color:black;-webkit-text-stroke:1px white;"> Insert text...;</p>
+            
+            <img src="https://c.tenor.com/1UoL-HJFGDAAAAAj/pentol-stiker-pentol.gif"/>
+            <h2 style="color:black;-webkit-text-stroke:1px white;">Insert text...</p>
+            
+            <img src="https://c.tenor.com/1bN1lZmbwWcAAAAj/line.gif"/>
+            <h2 style="color:black;-webkit-text-stroke:1px white;">Insert text...</p>
+            
+            <img src="https://c.tenor.com/mJ7Tkj3KIn0AAAAj/peach-and.gif"/>
+            <h2 style="color:black;-webkit-text-stroke:1px white;">Insert text...</p>
+            
+            <img src="https://c.tenor.com/CdliypdvLTEAAAAj/quby-pentol.gif">
+            <h2 style ="color:black;-webkit-text-stroke:1px white;">Insert text...</p>
+            
+            <img src="https://c.tenor.com/tsniEXs1tFkAAAAj/fbcuteboy.gif"/>
+            <h2 style ="color:black;-webkit-text-stroke:1px white;">Insert text...</p>
+
+            <img src="https://c.tenor.com/LxggFGxwOjIAAAAj/shy-cat.gif"/>
+            <h2 style="color:black;-webkit-text-stroke:1px white;">Insert text...</p>
+            <h1 style="color:aqua; font-family: Times New Roman; -webkit-text-stroke: 1px black;">Insert text...</h1>
+        
+            </body>
+            </html>
+          
+            <!--https://giphy.com (gif link)-->
+             <!--OPTION 
+            <!--https://www.w3schools.com/charsets/ref_emoji.asp (emoji link)-->
+              <!--EMOGI SYNTAX= &#unicode-->
