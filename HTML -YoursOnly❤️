@@ -6,13 +6,13 @@
         alert("Insert alert...")
         alert("Insert alert...")
         alert("Insert alert...")
-        alert("Insert alert...")
-        alert("Insert alert...")
-        alert("Insert alert...")
+        <!--You can set multiple ALERT--
+        
         </script>
         <style>
             body {
-             background: url(gif or pictures link address);
+             background: url(https://media.tenor.com/uj4Cnt7RVE0AAAAM/fatdog-dog.gif);
+             <!--background is changeable if needed (see below comment)-->
              background-repeat: no-repeat;
              background-position: auto;
              background-attachment: fixed;
@@ -28,7 +28,7 @@
             <h2 style="color:black;-webkit-text-stroke:1px white;">Insert text...<p>
             
             <img src="https://c.tenor.com/ux7RPst0v1MAAAAj/quby-pentol.gif"/>
-            <h2 style="color:black;-webkit-text-stroke:1px white;"> Insert text...</p>
+            <h2 style="color:black;-webkit-text-stroke:1px white;">Example for adding stickers &#127800; &#128155;</p>
             
             <img src="https://c.tenor.com/Fm3_oNnjUjYAAAAj/line.gif"/>
             <h2 style="color:black;-webkit-text-stroke:1px white;"> Insert text...;</p>
@@ -55,7 +55,9 @@
             </body>
             </html>
           
-            <!--https://giphy.com (gif link)-->
-             <!--OPTION 
-            <!--https://www.w3schools.com/charsets/ref_emoji.asp (emoji and stickers link)-->
+            <!--You can change background, gifs, sticks,...-->
+             <!--OPTIONAL-->
+            <!--https://tenor.com/search/media-gifs(gif's link)-->
+            <!--https://www.w3schools.com/charsets/ref_emoji.asp (emogi/characters)-->
               <!--EMOGI SYNTAX= &#unicode-->
+                                                    <!--REMOVE COMMENT IF NEEDED-->
